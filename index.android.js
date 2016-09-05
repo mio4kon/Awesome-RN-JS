@@ -1,5 +1,5 @@
 import React from 'react';
 import {AppRegistry} from 'react-native';
-import ListMovies from './ListMovies';
+import NavigatorDemo from './NavigatorDemo';
 
-AppRegistry.registerComponent('HelloWorldApp', () => ListMovies);
+AppRegistry.registerComponent('HelloWorldApp', () => NavigatorDemo);

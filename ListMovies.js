@@ -2,6 +2,7 @@
  * Created by mio4kon on 16/8/18.
  */
 import React from 'react'
+//noinspection JSUnresolvedVariable
 import {
     AppRegistry,
     Text,
