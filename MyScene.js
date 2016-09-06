@@ -12,6 +12,7 @@ export default class MyScene extends Component {
         onForward: PropTypes.func.isRequired,
         onBack: PropTypes.func.isRequired,
     }
+
     render() {
         return (
             <View>

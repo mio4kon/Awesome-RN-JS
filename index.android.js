@@ -1,5 +1,5 @@
 import React from 'react';
 import {AppRegistry} from 'react-native';
-import NavigatorDemo from './NavigatorDemo';
+import ReduxSimpleEx from './ReduxSimpleEx';
 
-AppRegistry.registerComponent('HelloWorldApp', () => NavigatorDemo);
+AppRegistry.registerComponent('HelloWorldApp', () => ReduxSimpleEx);
